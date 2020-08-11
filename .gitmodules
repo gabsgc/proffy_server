@@ -1,0 +1,3 @@
+[submodule "proffy_web"]
+	path = proffy_web
+	url = https://github.com/gabsgc/proffy_web
