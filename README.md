@@ -13,3 +13,6 @@ Back-End do projeto Proffy desenvolvido durante a Next Level Week #02 da Rockets
 - Rota para listar aulas;
     - Filtrar por matéria, dia da semana e horário;
  
+## Tecnologias utilizadas:
+- Node.js
+- Sqlite3
